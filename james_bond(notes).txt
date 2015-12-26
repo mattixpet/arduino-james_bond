@@ -1,0 +1,17 @@
+Arduino JAMES BOND nótur.
+
+delay(lambda/2.0).
+
+lambda		nóta
+4		b
+6		e
+8		b'
+10		f#
+12		d#
+14		d
+16		bb
+
+
+quartnote 120 bpm: 
+
+500		ms
